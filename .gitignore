@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+bia_py_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# ZIP files
+*.zip
